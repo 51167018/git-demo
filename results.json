@@ -1,0 +1,19 @@
+{
+	"Golang errors": {
+		"main.go": [
+			{
+				"line": 0,
+				"column": 0,
+				"error": "importing dir \"main.go\": cannot find package \".\" in:\n\tmain.go"
+			}
+		]
+	},
+	"Issues": [],
+	"Stats": {
+		"files": 9,
+		"lines": 330,
+		"nosec": 0,
+		"found": 0
+	},
+	"GosecVersion": "dev"
+}
